@@ -14,6 +14,7 @@
 		C74A72E0293BA952003DFE3C /* voiconTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74A72DF293BA952003DFE3C /* voiconTests.swift */; };
 		C74A72EA293BA952003DFE3C /* voiconUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74A72E9293BA952003DFE3C /* voiconUITests.swift */; };
 		C74A72EC293BA952003DFE3C /* voiconUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74A72EB293BA952003DFE3C /* voiconUITestsLaunchTests.swift */; };
+		C74A72FA293BAA3F003DFE3C /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74A72F9293BAA3F003DFE3C /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C74A72E5293BA952003DFE3C /* voiconUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = voiconUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C74A72E9293BA952003DFE3C /* voiconUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = voiconUITests.swift; sourceTree = "<group>"; };
 		C74A72EB293BA952003DFE3C /* voiconUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = voiconUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C74A72F9293BAA3F003DFE3C /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				C74A72D0293BA950003DFE3C /* ContentView.swift */,
 				C74A72D2293BA952003DFE3C /* Assets.xcassets */,
 				C74A72D4293BA952003DFE3C /* Preview Content */,
+				C74A72F9293BAA3F003DFE3C /* SwiftUIView.swift */,
 			);
 			path = voicon;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				C74A72D1293BA950003DFE3C /* ContentView.swift in Sources */,
 				C74A72CF293BA950003DFE3C /* voiconApp.swift in Sources */,
+				C74A72FA293BAA3F003DFE3C /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
